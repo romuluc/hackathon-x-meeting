@@ -63,7 +63,7 @@ Três pastas de trabalho, propositalmente simples: **dado** entra em `data/`,
 sempre regeneráveis a partir do código. Organize subpastas internas como a
 equipe preferir (ex.: por camada ou por etapa de análise).
 
-## 📨 Como enviar a solução — faça um *fork*
+## 📨 Como enviar a solução - faça um *fork*
 
 **Cada equipe deve fazer um _fork_ deste repositório** e desenvolver a solução no
 próprio fork. A entrega oficial será o **link do repositório da equipe**, preferencialmente 
