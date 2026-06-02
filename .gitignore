@@ -9,7 +9,7 @@
 #
 # A regra abaixo versiona apenas a ESTRUTURA de pastas e os
 # arquivos de documentação (README.md / .gitkeep), ignorando
-# todo o conteúdo de dados.
+# o conteúdo de dados.
 # =============================================================
 
 # Ignora tudo dentro de data/ ...
