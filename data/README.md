@@ -1,12 +1,15 @@
 # `data/` — Dados do desafio
 
-> ⚠️ **NDA (Regulamento §06).** Os datasets da JBS são de **uso exclusivo e
-> restrito** ao período do hackathon. É **proibido baixar, copiar, compartilhar
-> ou publicar** esses dados fora do ambiente controlado. **Nada aqui dentro vai
-> para o Git** — o `.gitignore` versiona só a estrutura de pastas, não os dados.
+> 🔒 **NDA e confidencialidade (Regulamento §06).** Os dados de origem são
+> públicos, mas os arquivos disponibilizados para o hackathon foram selecionados,
+> curados e pré-processados pela organização.
+>
+> Esses arquivos devem ser usados exclusivamente no contexto do desafio. É
+> proibido redistribuir, publicar ou compartilhar os datasets pré-processados,
+> metadados, anotações ou materiais internos fora dos canais autorizados.
 
-Coloque os arquivos recebidos da JBS na pasta da camada correspondente. Cada
-camada captura uma dimensão diferente do sistema; integradas, geram hipóteses
+
+Cada camada captura uma dimensão diferente do sistema; integradas, geram hipóteses
 mais robustas sobre produção e composição do leite.
 
 ## As 4 camadas
