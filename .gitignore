@@ -1,0 +1,62 @@
+# =============================================================
+# BovOmics Challenge — .gitignore
+#
+# IMPORTANTE (Regulamento §06 — NDA):
+# Os datasets da JBS são de uso EXCLUSIVO e RESTRITO ao período
+# do hackathon. É PROIBIDO copiar, compartilhar ou publicar os
+# dados fora do ambiente controlado. Portanto NENHUM dado bruto
+# ou processado deve ser commitado neste repositório.
+#
+# A regra abaixo versiona apenas a ESTRUTURA de pastas e os
+# arquivos de documentação (README.md / .gitkeep), ignorando
+# todo o conteúdo de dados.
+# =============================================================
+
+# Ignora tudo dentro de data/ ...
+data/**
+# ... mas mantém a estrutura de diretórios e a documentação:
+!data/**/
+!data/**/README.md
+!data/**/.gitkeep
+
+# Formatos de dados ômicos (em qualquer lugar do repo, por segurança)
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.sam
+*.bed.gz
+*.bigWig
+*.bw
+*.vcf
+*.vcf.gz
+*.mtx
+*.loom
+*.h5ad
+*.h5
+*.rds
+
+# Ambientes / caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+renv/library/
+renv/staging/
+.conda/
+.snakemake/
+.nextflow/
+.nextflow.log*
+work/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
