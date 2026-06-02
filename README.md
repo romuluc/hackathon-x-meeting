@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hackthon-xmeeting.png" height="120" alt="X-Meeting 2026">
+  <img src="assets/hackathon-xmeeting.png" height="120" alt="X-Meeting 2026">
 </p>
 
 # BovOmics Challenge - Repositório da Equipe
