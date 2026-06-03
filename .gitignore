@@ -19,6 +19,9 @@
 #!data/**/README.md
 #!data/**/.gitkeep
 
+# Ignorar arquivos do scRNA-seq que são grandes e não devem ser versionados, mas manter a estrutura de pastas:
+data/scrna-seq/GSM5368459_MammaryGland_Lactating/GSM5368459_MammaryGland_cells_Rdata.rds.gz
+
 # Formatos de dados ômicos (em qualquer lugar do repo, por segurança)
 *.fastq
 *.fastq.gz
