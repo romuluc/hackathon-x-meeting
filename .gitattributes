@@ -1,0 +1,2 @@
+data/bs-seq/** filter=lfs diff=lfs merge=lfs -text
+data/bs-seq/*.gz filter=lfs diff=lfs merge=lfs -text
