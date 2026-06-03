@@ -13,11 +13,11 @@
 # =============================================================
 
 # Ignora tudo dentro de data/ ...
-data/**
+#data/**
 # ... mas mantém a estrutura de diretórios e a documentação:
-!data/**/
-!data/**/README.md
-!data/**/.gitkeep
+#!data/**/
+#!data/**/README.md
+#!data/**/.gitkeep
 
 # Formatos de dados ômicos (em qualquer lugar do repo, por segurança)
 *.fastq
